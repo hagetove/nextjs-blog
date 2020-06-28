@@ -18,7 +18,7 @@ export default function Home() {
         </h2>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          AI art
         </p>
 
         <div className="grid">
