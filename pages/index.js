@@ -5,14 +5,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Create Next App</title>
+        <title>Toverudesign</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Read <Link href="/posts/first_post"><a>this page!</a></Link>
+          Toverud Design
         </h1>
+        <h2 className="title">
+          Check out <Link href="/posts/first_post"><a>the overview!</a></Link>
+        </h2>
 
         <p className="description">
           Get started by editing <code>pages/index.js</code>
