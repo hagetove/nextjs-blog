@@ -35,7 +35,7 @@ export default function Home() {
       </main>
 
       <footer>
-        <a
+        <a>
           Powered by coffee
         </a>
       </footer>
