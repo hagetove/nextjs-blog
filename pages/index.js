@@ -35,9 +35,9 @@ export default function Home() {
       </main>
 
       <footer>
-        <a>
+        <p>
           Powered by coffee
-        </a>
+        </p>
       </footer>
 
       <style jsx>{`
