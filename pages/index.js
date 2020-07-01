@@ -13,11 +13,9 @@ export default function Home() {
         <h1 className="title">
           Toverud Design
         </h1>
-        <h2 className="title">
 
-        <h2 className>
-
-          Learn <Link href="/posts/first_post"><a>more!</a></Link>
+        <h2>
+          <Link href="/posts/first_post"><a className="card">???</a></Link>
         </h2>
 
         <p className="description">
