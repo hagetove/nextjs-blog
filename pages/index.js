@@ -22,7 +22,7 @@ export default function Home() {
         </p>
 
         <div className="grid">
-          <a href="https://nextjs.org/docs" className="card">
+          <a href="https://www.tensorflow.org/tutorials/generative/style_transfer" className="card">
             <h3>Style transfer &rarr;</h3>
             <p>Make your own style transfer models with tensorflow.</p>
           </a>
