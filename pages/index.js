@@ -14,7 +14,7 @@ export default function Home() {
           Toverud Design
         </h1>
         <h2 className="title">
-          Check out <Link href="/posts/first_post"><a>the overview!</a></Link>
+          Learn <Link href="/posts/first_post"><a>more!</a></Link>
         </h2>
 
         <p className="description">
