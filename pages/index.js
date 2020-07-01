@@ -34,12 +34,6 @@ export default function Home() {
         </div>
       </main>
 
-      <footer>
-        <p>
-          Powered by coffee
-        </p>
-      </footer>
-
       <style jsx>{`
         .container {
           min-height: 100vh;
