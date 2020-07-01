@@ -14,12 +14,13 @@ export default function Home() {
           Toverud Design
         </h1>
 
+
         <h2>
           <Link href="/posts/first_post"><a className="card">???</a></Link>
         </h2>
 
         <p className="description">
-          AI art
+          III
         </p>
 
         <div className="grid">
@@ -141,7 +142,7 @@ export default function Home() {
           text-align: left;
           color: inherit;
           text-decoration: none;
-          border: 1px solid #eaeaea;
+          border: 1px solid darkgrey;
           border-radius: 10px;
           transition: color 0.15s ease, border-color 0.15s ease;
         }
